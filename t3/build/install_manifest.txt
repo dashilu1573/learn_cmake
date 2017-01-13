@@ -1,0 +1,5 @@
+/Users/luyafei/GitHub/lib/libhello.1.2.dylib
+/Users/luyafei/GitHub/lib/libhello.1.dylib
+/Users/luyafei/GitHub/lib/libhello.dylib
+/Users/luyafei/GitHub/lib/libhello.a
+/Users/luyafei/GitHub/include/hello/hello.h

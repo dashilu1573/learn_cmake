@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luyafei/GitHub/include/hello/hello.h
+stdio.h
+-
+
+/Users/luyafei/GitHub/learn_cmake/t4/src/main.c
+hello.h
+-
+
